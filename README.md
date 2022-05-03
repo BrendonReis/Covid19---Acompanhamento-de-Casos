@@ -1,4 +1,4 @@
-# Covid19--Acompanhamento-de-Casos
+# Covid19-Acompanhamento-de-Casos
 
 Site Front-end criado com intuito de aprendizagem com ReactJs;
 
